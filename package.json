@@ -16,7 +16,7 @@
   "dependencies": {
     "express": "^4.14.0"
   },
-  "keywords": [],
+  "keywords": ["freecodecamp","nodejs","express"],
   "author": "Amanda Luce",
 
   "license": "ISC"
